@@ -2,14 +2,11 @@ package ibm.grupo2.helloBank.Controller;
 
 import ibm.grupo2.helloBank.Models.Account;
 import ibm.grupo2.helloBank.Models.Log;
-
 import ibm.grupo2.helloBank.Response.Response;
 import ibm.grupo2.helloBank.dto.AccountDto;
 import ibm.grupo2.helloBank.service.AccountService;
 import ibm.grupo2.helloBank.service.LogService;
-
 import lombok.RequiredArgsConstructor;
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.validation.BindingResult;
@@ -30,6 +27,7 @@ public class AccountController {
 
     private final AccountService accountService;
     private final LogService logService;
+
 
 
     @PostMapping
