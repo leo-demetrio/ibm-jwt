@@ -4,8 +4,11 @@ import ibm.grupo2.helloBank.Controller.CustomerController;
 import ibm.grupo2.helloBank.Models.Customer;
 import ibm.grupo2.helloBank.Repositories.CustomerRepository;
 import ibm.grupo2.helloBank.dto.CustomerDto;
+import ibm.grupo2.helloBank.exception.ObjectNotFoundException;
 import ibm.grupo2.helloBank.service.CustomerService;
+import lombok.RequiredArgsConstructor;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.security.core.userdetails.UserDetails;
 import org.springframework.stereotype.Service;
 
 import javax.persistence.EntityNotFoundException;
@@ -13,11 +16,11 @@ import java.time.LocalDateTime;
 import java.util.List;
 import java.util.Optional;
 
+@RequiredArgsConstructor
 @Service
 public class CustomerServiceImpl implements CustomerService {
 
-    @Autowired
-    CustomerRepository customerRepository;
+    private final CustomerRepository customerRepository;
 
 
     @Override
@@ -79,6 +82,10 @@ public class CustomerServiceImpl implements CustomerService {
         }catch (EntityNotFoundException e){
             throw new EntityNotFoundException(e.getMessage());
         }
+    }
+
+    public Optional<Customer> findByName(String name){
+        return customerRepository.findByName(name);
     }
 
     @Override
