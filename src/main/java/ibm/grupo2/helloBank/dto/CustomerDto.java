@@ -16,6 +16,9 @@ import java.time.LocalDateTime;
 @NoArgsConstructor
 public class CustomerDto {
 
+    @NotNull
+    public Long id;
+
     @NotNull(message = "Informe o nome correto.")
     String name;
 

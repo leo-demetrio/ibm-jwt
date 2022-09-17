@@ -3,9 +3,11 @@ package ibm.grupo2.helloBank.Controller;
 
 import ibm.grupo2.helloBank.Models.Customer;
 import ibm.grupo2.helloBank.dto.CustomerDto;
+import ibm.grupo2.helloBank.dto.LoginDto;
 import ibm.grupo2.helloBank.service.CustomerService;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.log4j.Log4j2;
+import org.hibernate.ObjectDeletedException;
 import org.modelmapper.ModelMapper;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
@@ -66,6 +68,17 @@ public class CustomerController {
     public ResponseEntity<Customer> findByCpf(@RequestBody @Valid CustomerDto clientDto){
         convertDtoToEntity(clientDto);
         return ResponseEntity.ok().body(customerService.findByCpf(clientDto.getCpf()));
+    }
+    @PostMapping("/login")
+    public ResponseEntity<Object> login(@RequestBody LoginDto dataLogin){
+        boolean valid = false;
+        Optional<Customer> customer = customerService.findById(dataLogin.getId());
+
+        valid = encoder.matches(dataLogin.getPassword(), customer.get().getPassword());
+
+        if (!valid) return ResponseEntity.status(HttpStatus.UNAUTHORIZED).body(null);
+
+        return ResponseEntity.ok().body(customer.get());
     }
 
     @ResponseStatus(HttpStatus.BAD_REQUEST)
