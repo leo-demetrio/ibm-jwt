@@ -18,6 +18,7 @@ Em parceria com a GAMA ACADMEY
 
 ## Back End
 
+![spring](https://user-images.githubusercontent.com/47660967/191622375-83db07f4-7b7c-4f83-8e42-49a0f54618b3.png)
 ![intellij](https://user-images.githubusercontent.com/47660967/191617862-d74d8ade-ee6d-41e3-8abe-a3d927244f21.png)
 ![post](https://user-images.githubusercontent.com/47660967/191618827-04ebae7d-f5e5-4d1d-8123-fc50b0b076b1.png)
 </br></br></br>
@@ -69,6 +70,8 @@ git clone https://github.com/fvilelagit/projeto-final-IBM-G2
   ```
   
   ![sw1](https://user-images.githubusercontent.com/47660967/191620505-a71665f5-20d2-4cab-86a9-f41fa71123b3.png)
+  
+  ![apache_maven](https://user-images.githubusercontent.com/47660967/191623004-4025388f-a69a-4bc8-9b3d-ca89096ae981.png)
   
   ![account](https://user-images.githubusercontent.com/47660967/191621234-288174c7-1656-45cf-bf14-325b51d33ec3.png)
   
