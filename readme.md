@@ -10,7 +10,7 @@ Repositório com o código fonte do banco fictício HelloBank para o programa `I
 
 ![download](https://user-images.githubusercontent.com/47660967/191612984-b7785003-a629-4475-9b25-9fe981f29947.png)
 ![lambda](https://user-images.githubusercontent.com/47660967/191613593-eff8d10e-742d-4f51-a273-2dbed90ff891.png)
-![beanstalk](https://user-images.githubusercontent.com/47660967/191614166-8fc573b3-21c8-4101-8c29-a591c5b86460.png)
+![beancort](https://user-images.githubusercontent.com/47660967/191615846-dc2216a8-5be3-4eb7-8488-46e525cec73f.jpg)
 
 <h3>Clone project</h3>
 
