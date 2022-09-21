@@ -6,6 +6,12 @@ Em parceria com a GAMA ACADMEY
 ![ibm](https://user-images.githubusercontent.com/47660967/191617177-534280df-6b62-4c46-9b9b-bbb2ab3c2508.png)
 ![gama](https://user-images.githubusercontent.com/47660967/191617442-1a9db801-1255-4d9b-89e9-ce99765c0aa8.png)
 
+## Execução do projeto GRUPO 2
+
+Eduardo --
+Fábio --
+Leopoldo
+
 # Principais tecnologias usadas
 
 ![java-thumb](https://user-images.githubusercontent.com/47660967/191614389-6dad44c0-8b80-4f10-9a56-798c4f0db527.png)
