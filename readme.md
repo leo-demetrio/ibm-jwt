@@ -98,7 +98,6 @@ git clone https://github.com/fvilelagit/projeto-final-IBM-G2
 
 * Documentation SpringDoc OpenAPI. 
 * Main frameworks for units tests in Java: JUnit and Mockito. 
-* Integration tests.
 * Unit tests for functionality validation: create, read, update and delete.
 * Database MySql and Spring Data JPA
 * Spring Security
