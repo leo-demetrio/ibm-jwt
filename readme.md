@@ -1,8 +1,12 @@
-# ☕ Desafio Final IBM - If (black) {code}
+# ☕ Desafio Final IBM - If (black) Then {code}
 
-Repositório com o código fonte do banco fictício HelloBank para o programa `IF BLACK, THEN CODE!` da IBM.
+Repositório com o código fonte do banco fictício HelloBank para o programa `IF BLACK, THEN CODE!` da IBM.</br>
+Em parceria com a GAMA ACADMEY
 
-# Principal tecnologies usies
+![ibm](https://user-images.githubusercontent.com/47660967/191617177-534280df-6b62-4c46-9b9b-bbb2ab3c2508.png)
+![gama](https://user-images.githubusercontent.com/47660967/191617442-1a9db801-1255-4d9b-89e9-ce99765c0aa8.png)
+
+# Principais tecnologias usadas
 
 ![java-thumb](https://user-images.githubusercontent.com/47660967/191614389-6dad44c0-8b80-4f10-9a56-798c4f0db527.png)
 
@@ -12,31 +16,31 @@ Repositório com o código fonte do banco fictício HelloBank para o programa `I
 ![lambda](https://user-images.githubusercontent.com/47660967/191613593-eff8d10e-742d-4f51-a273-2dbed90ff891.png)
 ![beancort](https://user-images.githubusercontent.com/47660967/191615846-dc2216a8-5be3-4eb7-8488-46e525cec73f.jpg)
 
+## Back End
+
+![intellij](https://user-images.githubusercontent.com/47660967/191617862-d74d8ade-ee6d-41e3-8abe-a3d927244f21.png)
+![post](https://user-images.githubusercontent.com/47660967/191618827-04ebae7d-f5e5-4d1d-8123-fc50b0b076b1.png)
+</br></br></br>
+<h2>REFERÊNCIAS - INSTRUÇÕES</h2>
 <h3>Clone project</h3>
 
 ```
 git clone https://github.com/fvilelagit/projeto-final-IBM-G2
 
 ```
-After clone project and executing, just open the following address and view the project execution:
+****** ESTE PROJETO TEM CARÁCTER DEMONSTRATIVO NÃO FICARÁ NO POIS GERA CUSTOS ********
 
-* Update credential database file application.yaml
-* Credentials to login username: admin password: admin
 
-```
-http://localhost:8080/products
-
-```
 
 <details>
-  <summary> <h2>Click to expand for ROUTES</h2></summary> 
+  <summary> <h2>Click para expandir as ratas ROTAS</h2> </summary> 
   
 
   
 </details>
 
 <details>
-  <summary> <h2>Click to expand for INSTRUCTIONS AWS</h2></summary> 
+  <summary> <h2>Click para expandir CONFIGURAÇÕES AWS</h2></summary> 
   
   <h3>Clone project</h3>
 
@@ -53,6 +57,26 @@ http://localhost:8080/products
   
   ## Topico do serviço sns configurado, para enviar notificações para os clientes via email e sms
   ![WhatsApp Image 2022-09-19 at 09 33 37 (2)](https://user-images.githubusercontent.com/47660967/191089499-489c74be-99c3-4c6e-b88c-717f1d7e51be.jpeg)
+  
+</details>
+
+<details>
+  <summary> <h2>Click para expandir as ratas SWAGGER</h2> </summary> 
+  
+ ```
+  http://18.212.212.100:8085/swagger-ui.html
+
+  ```
+  
+  ![sw1](https://user-images.githubusercontent.com/47660967/191620505-a71665f5-20d2-4cab-86a9-f41fa71123b3.png)
+  
+  ![account](https://user-images.githubusercontent.com/47660967/191621234-288174c7-1656-45cf-bf14-325b51d33ec3.png)
+  
+  ![image](https://user-images.githubusercontent.com/47660967/191621358-20452c56-dfc8-4289-ba64-0606c1d86e64.png)
+  
+  ![image](https://user-images.githubusercontent.com/47660967/191621475-6d692111-b675-4c09-85a0-f61455379dce.png)
+  
+
   
 </details>
 
@@ -74,13 +98,7 @@ http://localhost:8080/products
 
 <br><br>
 
-<h3>Link Documentation</h3>
 
-```
-http://localhost:8080/swagger-ui.html
-```
-Credentials username: admin   password: admin 
-![open_api](https://user-images.githubusercontent.com/47660967/162837969-7d9dc0b3-fd0a-4a8b-ac7c-d2ed5e6ec90d.png)
 
 
 <h3>Below are reference links:</h3>
