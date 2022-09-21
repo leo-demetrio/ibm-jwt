@@ -2,6 +2,16 @@
 
 Repositório com o código fonte do banco fictício HelloBank para o programa `IF BLACK, THEN CODE!` da IBM.
 
+# Principal tecnologies usies
+
+![java-thumb](https://user-images.githubusercontent.com/47660967/191614389-6dad44c0-8b80-4f10-9a56-798c4f0db527.png)
+
+## AWS
+
+![download](https://user-images.githubusercontent.com/47660967/191612984-b7785003-a629-4475-9b25-9fe981f29947.png)
+![lambda](https://user-images.githubusercontent.com/47660967/191613593-eff8d10e-742d-4f51-a273-2dbed90ff891.png)
+![beanstalk](https://user-images.githubusercontent.com/47660967/191614166-8fc573b3-21c8-4101-8c29-a591c5b86460.png)
+
 <h3>Clone project</h3>
 
 ```
