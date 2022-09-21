@@ -43,12 +43,6 @@ git clone https://github.com/fvilelagit/projeto-final-IBM-G2
 <details>
   <summary> <h2>Click para expandir CONFIGURAÇÕES AWS</h2></summary> 
   
-  <h3>Clone project</h3>
-
-  ```
-  git clone https://github.com/leo-demetrio/store-cars
-
-  ```
   
   ## EC2 com maquina para fazer deploy e executar testes da aplicação
   ![WhatsApp Image 2022-09-19 at 09 33 37](https://user-images.githubusercontent.com/47660967/191088717-e52eca39-43d0-4c3b-a9e7-721e0209bfb2.jpeg)
@@ -93,11 +87,11 @@ git clone https://github.com/fvilelagit/projeto-final-IBM-G2
 * Spring Security
 
 
-<h3>The following prerequisites are necessary for the execution of the project:</h3>
+<h3>Pré-requisitos</h3>
 
-* Java 11 or higher versions.
-* Maven 3.6.3 or higher versions.
-* Intellj IDEA Community Edition or favorite IDE .
+* Java 17 ou superiores.
+* Maven 3.6.3 ou superiores.
+* Intellj IDEA Community Edition ou sua IDE favorita .
 
 <br><br>
 
@@ -115,5 +109,6 @@ git clone https://github.com/fvilelagit/projeto-final-IBM-G2
 * [References - tests with Spring Boot](https://www.baeldung.com/spring-boot-testing)
 * [Reference for the architectural pattern REST](https://restfulapi.net/)
 * [Postmam](https://www.postman.com/)
+* [AWS](https://docs.aws.amazon.com/pt_br/)
 
 
