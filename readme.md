@@ -3,14 +3,25 @@
 Repositório com o código fonte do banco fictício HelloBank para o programa `IF BLACK, THEN CODE!` da IBM.</br>
 Em parceria com a GAMA ACADMEY
 
+<div align="center">
+
 ![ibm](https://user-images.githubusercontent.com/47660967/191617177-534280df-6b62-4c46-9b9b-bbb2ab3c2508.png)
 ![gama](https://user-images.githubusercontent.com/47660967/191617442-1a9db801-1255-4d9b-89e9-ce99765c0aa8.png)
 
-## Execução do projeto GRUPO 2
+</div>
+<br><br>
 
-Eduardo --
-Fábio --
-Leopoldo
+<div align="center">
+<h2> :construction: Execução e construção do projeto :construction: </h2>
+
+<h3 align="center"> Eduardo </h3>
+<h3 align="center"> Fábio </h3>
+<h3 align="center"> Leopoldo </h3>
+
+
+</div>
+
+<br><br>
 
 # Principais tecnologias usadas
 
