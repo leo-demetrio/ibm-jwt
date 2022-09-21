@@ -16,7 +16,11 @@ Em parceria com a GAMA ACADMEY
 
 <h3 align="center"> Eduardo </h3>
 <h3 align="center"> Fábio </h3>
-<h3 align="center"> Leopoldo </h3>
+<h3 align="center">
+  
+Leopoldo C. Demetrio [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leopoldo-dev/)
+
+</h3>
 
 
 </div>
