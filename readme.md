@@ -14,8 +14,16 @@ Em parceria com a GAMA ACADMEY
 <div align="center">
 <h2> :construction: Execução e construção do projeto :construction: </h2>
 
-<h3 align="center"> Eduardo </h3>
-<h3 align="center"> Fábio </h3>
+<h3 align="center"> 
+  
+Eduardo Silva [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardojdsilva/)
+  
+</h3>
+<h3 align="center"> 
+  
+Fábio Vilela [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vileladev/)
+  
+  </h3>
 <h3 align="center">
   
 Leopoldo C. Demetrio [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leopoldo-dev/)
@@ -40,8 +48,14 @@ Leopoldo C. Demetrio [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-00
 ## Back End
 
 ![spring](https://user-images.githubusercontent.com/47660967/191622375-83db07f4-7b7c-4f83-8e42-49a0f54618b3.png)
-![intellij](https://user-images.githubusercontent.com/47660967/191617862-d74d8ade-ee6d-41e3-8abe-a3d927244f21.png)
-![post](https://user-images.githubusercontent.com/47660967/191618827-04ebae7d-f5e5-4d1d-8123-fc50b0b076b1.png)
+![intellijcort](https://user-images.githubusercontent.com/47660967/191643207-5de15153-5c4a-4588-9ffb-26149f879bcd.jpg)
+![post1](https://user-images.githubusercontent.com/47660967/191643388-6a884a5a-0c63-4578-9a9f-6b7d5e6c0ce5.png)
+
+<div align="center">
+  
+![apache_maven](https://user-images.githubusercontent.com/47660967/191623004-4025388f-a69a-4bc8-9b3d-ca89096ae981.png)
+  
+ </div>
 </br></br></br>
 <h2>REFERÊNCIAS - INSTRUÇÕES</h2>
 <h3>Clone project</h3>
@@ -50,16 +64,9 @@ Leopoldo C. Demetrio [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-00
 git clone https://github.com/fvilelagit/projeto-final-IBM-G2
 
 ```
-****** ESTE PROJETO TEM CARÁCTER DEMONSTRATIVO NÃO FICARÁ NO POIS GERA CUSTOS ********
+****** ESTE PROJETO TEM CARÁCTER DEMONSTRATIVO NÃO FICARÁ NO ATIVO POIS GERA CUSTOS ********
 
 
-
-<details>
-  <summary> <h2>Click para expandir as ratas ROTAS</h2> </summary> 
-  
-
-  
-</details>
 
 <details>
   <summary> <h2>Click para expandir CONFIGURAÇÕES AWS</h2></summary> 
@@ -77,7 +84,7 @@ git clone https://github.com/fvilelagit/projeto-final-IBM-G2
 </details>
 
 <details>
-  <summary> <h2>Click para expandir as ratas SWAGGER</h2> </summary> 
+  <summary> <h2>Click para expandir as rotas SWAGGER</h2> </summary> 
   
  ```
   http://18.212.212.100:8085/swagger-ui.html
@@ -86,7 +93,6 @@ git clone https://github.com/fvilelagit/projeto-final-IBM-G2
   
   ![sw1](https://user-images.githubusercontent.com/47660967/191620505-a71665f5-20d2-4cab-86a9-f41fa71123b3.png)
   
-  ![apache_maven](https://user-images.githubusercontent.com/47660967/191623004-4025388f-a69a-4bc8-9b3d-ca89096ae981.png)
   
   ![account](https://user-images.githubusercontent.com/47660967/191621234-288174c7-1656-45cf-bf14-325b51d33ec3.png)
   
@@ -98,13 +104,16 @@ git clone https://github.com/fvilelagit/projeto-final-IBM-G2
   
 </details>
 
-<h3>The following topics were put into practice:</h3>
+<h3>Tópicos colocados em prática:</h3>
 
-* Documentation SpringDoc OpenAPI. 
-* Main frameworks for units tests in Java: JUnit and Mockito. 
-* Unit tests for functionality validation: create, read, update and delete.
+* Documentação SpringDoc OpenAPI. 
+* Principais frameworks para teste unitários em Java: JUnit and Mockito. 
+* Testes para validação: create, read, update and delete.
 * Database MySql and Spring Data JPA
-* Spring Security
+* Spring Security - Criptografia BCrypt
+* AWS - Lambda - API Gateway - Elastic BeanStalk -SNS 
+* Jenkins
+* Docker
 
 
 <h3>Pré-requisitos</h3>
